@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity Project\\Unity Git\\Joint Master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFDC08-7B95-829E-5DCC-4879667CAFA0}|Assembly-CSharp.csproj|c:\\unity project\\unity git\\joint master\\assets\\scripts\\\u0441atapult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFDC08-7B95-829E-5DCC-4879667CAFA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\\u0441atapult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFDC08-7B95-829E-5DCC-4879667CAFA0}|Assembly-CSharp.csproj|C:\\Unity Project\\Unity Git\\Joint Master\\assets\\scripts\\swing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFDC08-7B95-829E-5DCC-4879667CAFA0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\swing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Unity Project\\Unity Git\\Joint Master\\Assets\\Scripts\\Projectiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Projectiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Swing.cs",
+              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\Joint Master\\Assets\\Scripts\\Swing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Swing.cs",
+              "ToolTip": "C:\\Unity Project\\Unity Git\\Joint Master\\Assets\\Scripts\\Swing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Swing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:57:28.216Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0421atapult.cs",
+              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\Joint Master\\Assets\\Scripts\\\u0421atapult.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\\u0421atapult.cs",
+              "ToolTip": "C:\\Unity Project\\Unity Git\\Joint Master\\Assets\\Scripts\\\u0421atapult.cs",
+              "RelativeToolTip": "Assets\\Scripts\\\u0421atapult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:32:45.108Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Projectiles.cs",
+              "DocumentMoniker": "C:\\Unity Project\\Unity Git\\Joint Master\\Assets\\Scripts\\Projectiles.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Projectiles.cs",
+              "ToolTip": "C:\\Unity Project\\Unity Git\\Joint Master\\Assets\\Scripts\\Projectiles.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Projectiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T08:48:39.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
